@@ -9,7 +9,7 @@
   "updatePolicy": {
     "android": {
       "minBuild": 1,
-      "latestVersion": "1.1.0",
+      "latestVersion": "1.0.0",
       "blocking": false,
       "title": "Update Required",
       "message": "Please update EasyMony to continue.",
@@ -17,8 +17,8 @@
     },
     "ios": {
       "minBuild": 1,
-      "latestVersion": "1.1.0",
-      "blocking": true,
+      "latestVersion": "1.0.0",
+      "blocking": false,
       "title": "Update Required",
       "message": "Please update EasyMony to continue.",
       "storeUrl": "https://apps.apple.com/app/idXXXXXXXXX"
