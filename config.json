@@ -10,17 +10,17 @@
     "android": {
       "minBuild": 1,
       "latestVersion": "1.1.0",
-      "blocking": false,
-      "title": "Update Available",
-      "message": "A better version is available. Update now or later.",
+      "blocking": true,
+      "title": "Update Required",
+      "message": "Please update EasyMony to continue.",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
       "minBuild": 1,
       "latestVersion": "1.1.0",
-      "blocking": false,
-      "title": "Update Available",
-      "message": "A better version is available. Update now or later.",
+      "blocking": true,
+      "title": "Update Required",
+      "message": "Please update EasyMony to continue.",
       "storeUrl": "https://apps.apple.com/app/idXXXXXXXXX"
     }
   },
