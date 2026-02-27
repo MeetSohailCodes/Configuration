@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-24T00:00:00Z",
+  "maintenance": {
+    "enabled": false,
+    "title": "Maintenance Mode",
+    "message": "We are improving EasyMony. Please try again shortly."
+  },
+  "updatePolicy": {
+    "android": {
+      "minBuild": 120,
+      "latestVersion": "1.0.0",
+      "blocking": true,
+      "title": "Update Required",
+      "message": "Please update to continue.",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
+    },
+    "ios": {
+      "minBuild": 120,
+      "latestVersion": "1.0.0",
+      "blocking": false,
+      "title": "Update Available",
+      "message": "A better version is available.",
+      "storeUrl": "https://apps.apple.com/app/idXXXXXXXXX"
+    }
+  },
+  "featureFlags": {
+    "revenuecat_enabled": true,
+    "review_prompt_enabled": true
+  }
+}
