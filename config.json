@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-02-24T00:00:00Z",
+  "updatedAt": "2026-02-27T00:00:00Z",
   "maintenance": {
     "enabled": false,
     "title": "Maintenance Mode",
@@ -8,19 +8,19 @@
   },
   "updatePolicy": {
     "android": {
-      "minBuild": 120,
-      "latestVersion": "1.0.0",
-      "blocking": true,
-      "title": "Update Required",
-      "message": "Please update to continue.",
+      "minBuild": 1,
+      "latestVersion": "1.1.0",
+      "blocking": false,
+      "title": "Update Available",
+      "message": "A better version is available. Update now or later.",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
-      "minBuild": 120,
-      "latestVersion": "1.0.0",
+      "minBuild": 1,
+      "latestVersion": "1.1.0",
       "blocking": false,
       "title": "Update Available",
-      "message": "A better version is available.",
+      "message": "A better version is available. Update now or later.",
       "storeUrl": "https://apps.apple.com/app/idXXXXXXXXX"
     }
   },
