@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-02-29T00:00:00Z",
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Yoo! We Broke",
     "message": "We are improving EasyMony. Please try again shortly."
   },
@@ -11,7 +11,7 @@
       "minBuild": 1,
       "latestVersion": "1.2.0",
       "blockedVersions": [], 
-      "blocking": false,
+      "blocking": true,
       "title": "Yoo! Update Available",
       "message": "Version 1.2.0 is available. Update now",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
