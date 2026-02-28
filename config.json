@@ -13,7 +13,7 @@
       "blockedVersions": ["1.0.0"], 
       "blocking": false,
       "title": "Yoo! Update To Continue",
-      "message": "Yo, yo, yo, 1-4-8-3 to the 3 to the 6 to the 9",
+      "message": "Go to the Google Play Store and Click Update Now. Thats it.",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
