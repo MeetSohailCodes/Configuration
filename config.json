@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-02-30T01:00:00Z",
+  "updatedAt": "2026-02-30T02:30:00Z",
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Yoo! We Broke",
     "message": "We are improving EasyMony. Please try again shortly."
   },
