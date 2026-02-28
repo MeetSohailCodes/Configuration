@@ -3,7 +3,7 @@
   "updatedAt": "2026-02-27T00:00:00Z",
   "maintenance": {
     "enabled": false,
-    "title": "Maintenance Mode",
+    "title": "Yoo! We Broke",
     "message": "We are improving EasyMony. Please try again shortly."
   },
   "updatePolicy": {
@@ -12,8 +12,8 @@
       "latestVersion": "1.2.0",
       "blockedVersions": ["1.0.0"], 
       "blocking": false,
-      "title": "Update Required",
-      "message": "Please update EasyMony to continue.",
+      "title": "Yoo! Update To Continue",
+      "message": "A better version is available. Update now or later.",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
@@ -21,8 +21,8 @@
       "latestVersion": "1.2.0",
       "blockedVersions": ["1.0.0"],
       "blocking": false,
-      "title": "Update Required",
-      "message": "Please update EasyMony to continue.",
+      "title": "Yoo! Update To Continue",
+      "message": "A better version is available. Update now or later.",
       "storeUrl": "https://apps.apple.com/app/idXXXXXXXXX"
     }
   },
