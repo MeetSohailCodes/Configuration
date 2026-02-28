@@ -12,8 +12,8 @@
       "latestVersion": "1.2.0",
       "blockedVersions": ["1.0.0"], 
       "blocking": false,
-      "title": "Yoo! Update To Continue",
-      "message": "Go to the Google Play Store and Click Update Now. Thats it.",
+      "title": "Yoo! Update Available",
+      "message": "Version 1.2.0 is available. Update now",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
@@ -21,8 +21,8 @@
       "latestVersion": "1.2.0",
       "blockedVersions": ["1.0.0"],
       "blocking": false,
-      "title": "Yoo! Update To Continue",
-      "message": "A better version is available. Update now or later.",
+      "title": "Yoo! Update Available",
+      "message": "Version 1.2.0 is available. Update now",
       "storeUrl": "https://apps.apple.com/app/idXXXXXXXXX"
     }
   },
