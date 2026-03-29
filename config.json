@@ -11,7 +11,7 @@
       "minBuild": 101,
       "latestVersion": "1.0.1",
       "blockedVersions": [], 
-      "blocking": false,
+      "blocking": true,
       "title": "Yoo! Update Available",
       "message": "Version 1.0.1 is available. Update now",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
