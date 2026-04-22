@@ -11,7 +11,7 @@
       "minBuild": 105,
       "latestVersion": "1.0.5",
       "blockedVersions": [], 
-      "blocking": false,
+      "blocking": true,
       "title": "Update Available",
       "message": "Version 1.0.5 is available. Update now ❤️‍🔥",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
