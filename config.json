@@ -8,21 +8,21 @@
   },
   "updatePolicy": {
     "android": {
-      "minBuild": 101,
-      "latestVersion": "1.0.1",
+      "minBuild": 104,
+      "latestVersion": "1.0.4",
       "blockedVersions": [], 
       "blocking": true,
-      "title": "Yoo! Update Available",
-      "message": "Version 1.0.1 is available. Update now",
+      "title": "Update Available",
+      "message": "Version 1.0.4 is available. Update now",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
-      "minBuild": 101,
-      "latestVersion": "1.0.1",
+      "minBuild": 104,
+      "latestVersion": "1.0.4",
       "blockedVersions": [],
       "blocking": false,
       "title": "Yoo! Update Available",
-      "message": "Version 1.0.1 is available. Update now",
+      "message": "Version 1.0.4 is available. Update now",
       "storeUrl": "https://apps.apple.com/app/idXXXXXXXXX"
     }
   },
