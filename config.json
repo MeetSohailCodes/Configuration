@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-03-29T02:39:00Z",
+  "updatedAt": "2026-03-29T02:40:00Z",
   "maintenance": {
     "enabled": false,
     "title": "Yoo! We Broke",
@@ -11,8 +11,8 @@
       "minBuild": 105,
       "latestVersion": "1.0.5",
       "blockedVersions": [], 
-      "blocking": false,
-      "title": "Update Available",
+      "blocking": true,
+      "title": "Update Available!",
       "message": "Version 1.0.5 is available. Update now ❤️‍🔥",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
