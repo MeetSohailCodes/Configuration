@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-22T00:00:00Z",
+  "updatedAt": "2026-04-22T01:00:00Z",
   "maintenance": {
     "enabled": false,
     "title": "Maintenance Mode",
@@ -10,8 +10,8 @@
     "android": {
       "minBuild": 105,
       "latestVersion": "1.0.5",
-      "blockedBuilds": [103, 104],
-      "blockedVersions": ["1.0.3", "1.0.4"],
+      "blockedBuilds": [],
+      "blockedVersions": [],
       "blocking": false,
       "title": "Update Available!",
       "message": "Version 1.0.5 is available. Update now ❤️‍🔥",
@@ -20,9 +20,9 @@
     "ios": {
       "minBuild": 105,
       "latestVersion": "1.0.5",
-      "blockedBuilds": [103, 104],
-      "blockedVersions": ["1.0.3", "1.0.4"],
-      "blocking": true,
+      "blockedBuilds": [],
+      "blockedVersions": [],
+      "blocking": false,
       "title": "Update Available!",
       "message": "Version 1.0.5 is available. Update now ❤️‍🔥",
       "storeUrl": "https://apps.apple.com/app/idYOUR_APP_ID"
