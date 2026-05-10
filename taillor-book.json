@@ -9,12 +9,12 @@
   "updatePolicy": {
     "android": {
       "minBuild": 1,
-      "latestVersion": "1.0.1",
+      "latestVersion": "1.0.0",
       "blockedBuilds": [],
       "blockedVersions": [],
       "blocking": false,
       "title": "Update Available!",
-      "message": "Version 1.0.1 is available. Update now ❤️🔥",
+      "message": "Version 1.0.0 is available. Update now ❤️🔥",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.tonystacks.tailorbook"
     },
     "ios": {
