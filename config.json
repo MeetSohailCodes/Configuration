@@ -8,8 +8,8 @@
   },
   "updatePolicy": {
     "android": {
-      "minBuild": 118,
-      "latestVersion": "1.2.0",
+      "minBuild": 122,
+      "latestVersion": "1.2.1",
       "blockedBuilds": [1.1.2],
       "blockedVersions": [],
       "blocking": false,
