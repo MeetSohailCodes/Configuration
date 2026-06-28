@@ -8,13 +8,13 @@
   },
   "updatePolicy": {
     "android": {
-      "minBuild": 122,
-      "latestVersion": "1.2.1",
+      "minBuild": 126,
+      "latestVersion": "1.2.2",
       "blockedBuilds": [1.1.2],
       "blockedVersions": [],
       "blocking": false,
       "title": "Update Available!",
-      "message":"New Features are now available. Update now ❤️‍🔥",
+      "message":"Widgets, localization and more features are now available.. Update now ❤️‍🔥",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
