@@ -8,23 +8,23 @@
   },
   "updatePolicy": {
     "android": {
-      "minBuild": 126,
-      "latestVersion": "1.2.2",
+      "minBuild": 132,
+      "latestVersion": "1.2.3",
       "blockedBuilds": [1.1.2],
       "blockedVersions": [],
       "blocking": false,
       "title": "Update Available!",
-      "message":"Widgets, localization and more features are now available.. Update now ❤️‍🔥",
+      "message":"Update to version 1.2.3 for smoother performance, improved widgets, better localization, and more reliable notifications. Update now ❤️‍🔥",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
-      "minBuild": 105,
-      "latestVersion": "1.0.5",
+      "minBuild": 132,
+      "latestVersion": "1.2.3",
       "blockedBuilds": [],
       "blockedVersions": [],
       "blocking": false,
       "title": "Update Available!",
-      "message": "Version 1.0.5 is available. Update now ❤️‍🔥",
+      "message": "Update to version 1.2.3 for smoother performance, improved widgets, better localization, and more reliable notifications. Update now ❤️‍🔥",
       "storeUrl": "https://apps.apple.com/app/idYOUR_APP_ID"
     }
   }
