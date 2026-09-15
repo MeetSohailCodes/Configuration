@@ -1,1 +1,8 @@
-
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-15T06:00:00Z",
+  "globalBlock": false,
+  "globalBlockMessage": "This application has been temporarily disabled. Please contact your administrator.",
+  "minAppVersion": "1.0.0",
+  "announcements": []
+}
