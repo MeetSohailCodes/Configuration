@@ -1,18 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T06:00:00Z",
+  "updatedAt": "2026-09-15T06:30:00Z",
   "licenses": [
     {
-  "keyHash": "15d9a378e45f29b92a3f7da517611874be80f6b0ecd100300193d6dd751dd5f4",
-  "label": "Muhammad Tariq",
-  "state": "active",
-  "deviceFingerprint": null,
-  "activatedAt": null,
-  "expiresAt": null,
-  "warningMessage": null,
-  "blockedMessage": null,
-  "notes": "Generated on 2026-09-15T10:14:15.562Z"
-}
-   
+      "keyHash": "15d9a378e45f29b92a3f7da517611874be80f6b0ecd100300193d6dd751dd5f4",
+      "label": "Muhammad Tariq",
+      "state": "active",
+      "deviceFingerprint": null,
+      "activatedAt": null,
+      "expiresAt": null,
+      "warningMessage": null,
+      "blockedMessage": null,
+      "notes": "Generated on 2026-09-15T10:14:15.562Z"
+    }
   ]
 }
