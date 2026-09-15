@@ -1,1 +1,18 @@
-
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-15T06:00:00Z",
+  "licenses": [
+    {
+      "keyHash": "b0d52e7090b7d817289df2ca7c7ef3f5af071668af641e346711196217c7434e",
+      "label": "Muhammad Tariq",
+      "state": "active",
+      "deviceFingerprint": "f7e8d9c0a1b2c3d4",
+      "activatedAt": "2026-09-01T10:00:00Z",
+      "expiresAt": null,
+      "warningMessage": null,
+      "blockedMessage": null,
+      "notes": "Annual license"
+    },
+   
+  ]
+}
