@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-1T01:09:00Z",
+  "updatedAt": "2026-10-22T16:08:27Z",
   "maintenance": {
     "enabled": false,
     "title": "Maintenance Mode",
@@ -8,23 +8,23 @@
   },
   "updatePolicy": {
     "android": {
-      "minBuild": 132,
-      "latestVersion": "1.2.3",
-      "blockedBuilds": [1.1.2],
-      "blockedVersions": [],
+      "minBuild": 135,
+      "latestVersion": "1.2.4",
+      "blockedBuilds": [],
+      "blockedVersions": ["1.1.2"],
       "blocking": false,
       "title": "Update Available!",
-      "message":"Update to version 1.2.3 for smoother performance, improved widgets, better localization, and more reliable notifications. Update now ❤️‍🔥",
+      "message": "Update to version 1.2.4 for easier backdated transactions, improved account handling, weekly spending summaries, and more reliable daily reminders. Update now ❤️‍🔥",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.easymony.app"
     },
     "ios": {
-      "minBuild": 132,
-      "latestVersion": "1.2.3",
+      "minBuild": 135,
+      "latestVersion": "1.2.4",
       "blockedBuilds": [],
-      "blockedVersions": [],
+      "blockedVersions": ["1.1.2"],
       "blocking": false,
       "title": "Update Available!",
-      "message": "Update to version 1.2.3 for smoother performance, improved widgets, better localization, and more reliable notifications. Update now ❤️‍🔥",
+      "message": "Update to version 1.2.4 for easier backdated transactions, improved account handling, weekly spending summaries, and more reliable daily reminders. Update now ❤️‍🔥",
       "storeUrl": "https://apps.apple.com/app/idYOUR_APP_ID"
     }
   }
